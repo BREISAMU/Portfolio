@@ -2678,7 +2678,7 @@ input, select, textarea {
 			-webkit-transform: scale(1.05);
 			-ms-transform: scale(1.05);
 			transform: scale(1.05);
-			border: 0;
+			border: 2px solid transparent; /* Change border color to transparent instead of removing it */
 		}
 
 /* Actions */
