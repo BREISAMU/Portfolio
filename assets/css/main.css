@@ -2626,6 +2626,7 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			border: 2px solid #555;
 		}
 
 			.image.fit:first-child {
@@ -2678,7 +2679,6 @@ input, select, textarea {
 			-webkit-transform: scale(1.05);
 			-ms-transform: scale(1.05);
 			transform: scale(1.05);
-			border: 2px solid transparent; /* Change border color to transparent instead of removing it */
 		}
 
 /* Actions */
